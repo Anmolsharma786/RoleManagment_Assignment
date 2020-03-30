@@ -10,7 +10,8 @@ Hello Respected professor,
                            around the world in order to keep track of their employee, salary's  and their on going 
                            project within the organization which can help the HR or other senior employees of the company to mave their 
                            employee from one project to other or they can to keep TRACK OF WHAT THEIR EMPLOYEE are doing within the 
-                           organization.
+                           organization. In the three tables we have added relationships according to the id in the three tables   
+                           respectively.
                            
                            Here there are Hr's , Admins and employess and only Hr's can create salaries and admins can create roles 
                            and employes cannot see the salaries 
