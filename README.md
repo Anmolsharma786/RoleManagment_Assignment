@@ -54,3 +54,5 @@ In this Assignment we created three Tables which are following
   <img height = "700" src = "https://github.com/Anmolsharma786/RoleManagment_Assignment/blob/master/Screenshot%20(197).png"/>
  
   
+# Links Hiding
+In the salary controller we have added the access to the HR in index page. We have hidden the links of projects and salaries to the HR and Manager only. We had assign the multiple roles Project to HR and Manager in the Project Controller to Index
