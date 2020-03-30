@@ -35,7 +35,7 @@ In this Assignment we created three Tables which are following
   <img height = "700" src = "https://github.com/Anmolsharma786/RoleManagment_Assignment/blob/master/Screenshot%20(189).png"/>
   
   Here are the screenshots of website 
-  <img height = "700" src = " https://github.com/Anmolsharma786/RoleManagment_Assignment/blob/master/Screenshot%20(190).png"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/RoleManagment_Assignment/blob/master/Screenshot%20(190).png"/>
   
   
   <img height = "700" src = " https://github.com/Anmolsharma786/RoleManagment_Assignment/blob/master/Screenshot%20(191).png"/>
